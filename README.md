@@ -1,4 +1,4 @@
-# AI Poem Generator
+# AI Poetry Generator
 
 Welcome to the AI Poem Generator! This project leverages OpenAI's API to generate creative poems based on a given theme.
 
