@@ -11,3 +11,9 @@ This Python project allows users to input a theme, and the AI will generate a po
 - Input a theme for the poem.
 - AI generates a poem based on that theme.
 - Uses OpenAI’s GPT-3.5-turbo model to generate the poem.
+
+## Skills
+
+- Languages: Python
+- Tools: OpenAI API, CLI Development, Git
+- Concepts: Natural Language Processing (NLP), AI Integration, API Handling, User Interface Design
